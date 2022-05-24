@@ -1,0 +1,13 @@
+header{
+    background-color:#ff0000;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    content: 1
+}
+
+button{
+    content: 2
+}
